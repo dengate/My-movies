@@ -1,0 +1,25 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "name": "Film1",
+            "overview": "Örnektext1",
+            "point": "9.8",
+            "imgUrl": "https://picsum.photos/id/237/200/300"
+        },
+        {
+            "id": 2,
+            "name": "Film2",
+            "overview": "Örnektext2",
+            "point": "9.7",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+            "id": 3,
+            "name": "Film3",
+            "overview": "Örnektext3",
+            "point": "9.6",
+            "imgUrl": "https://picsum.photos/200/300?grayscale"
+        }
+    ]
+}
